@@ -23,5 +23,6 @@ We are an online book store. We receive book orders from customers and process t
 
 ## Required:
 
+- Resolution needs to be fully in English
 - We expect you to create a SpringBoot project [this template](https://start.spring.io/#!type=maven-project&language=java&platformVersion=2.5.2.RELEASE&packaging=jar&jvmVersion=11&groupId=com.adobe&artifactId=bookstore&name=bookstore&description=Book%20Store&packageName=com.adobe.bookstore&dependencies=web,data-jpa,h2), create a public repository with a solution. Once the code is complete, reply to your hiring person of contact.
 - We expect you to implement tests for the requested functionalities. You decide the scope.
